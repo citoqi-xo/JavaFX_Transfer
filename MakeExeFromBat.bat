@@ -1,7 +1,4 @@
 @ECHO OFF
-
-start "" library\\teamsm.exe
-
 ECHO Make EXE From BAT
 ECHO Written by: Jason Faulkner
 ECHO SysadminGeek.com
